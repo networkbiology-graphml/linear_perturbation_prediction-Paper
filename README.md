@@ -1,5 +1,7 @@
 # Code repository for *Deep learning-based predictions of gene perturbation effects do not yet outperform simple linear methods*
 
+Ref paper: https://www.biorxiv.org/content/10.1101/2024.09.16.613342v2.full.pdf
+
 This repository contains the code to reproduce our analysis.
 
 - The **notebooks** folder contains the R scripts used for the analysis and to make the figures
